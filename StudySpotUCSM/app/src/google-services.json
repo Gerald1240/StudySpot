@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "392701724361",
+    "project_id": "studyspot-ucsm",
+    "storage_bucket": "studyspot-ucsm.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:392701724361:android:20e66883be8c3385e96f18",
+        "android_client_info": {
+          "package_name": "com.example.studyspotucsm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "392701724361-r0e6e9r7gba2t1v6vk8hekfj9oca04ro.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCj1v88FVMvN06LkuugQ6fUQZpiD5HhZ2w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "392701724361-r0e6e9r7gba2t1v6vk8hekfj9oca04ro.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
